@@ -5,3 +5,5 @@
 ### 💬 开发者说明
 
 适配教程参考[小爱课程表开发者工具](https://open-schedule-prod.ai.xiaomi.com/docs/#/help/),如果需要适配其他学校可随意使用代码.
+
+点点star吧🥺
