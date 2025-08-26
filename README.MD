@@ -1,3 +1,10 @@
+<img src="screenshots\announcement.jpg" title="公告" width="50%"/> <br>
+
+> 由于小米已经关闭了小爱同学的教务导入功能.如果想要继续使用,只能手动调出导入界面.
+> 调用方法:
+> 打开vConsole 在command中输入window.location.href='https://i.xiaomixiaoai.com/h5/precache/ai-schedule/#/import'
+> 如后续关闭导入服务器,将无法再使用.
+
 ### ⭐ Jxust-AISchedule-NanChang
 
 强智教育,江西理工大学南昌校区小爱课程表适配,应该适用于三江校区.
